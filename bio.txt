@@ -1,8 +1,12 @@
-<h1>Mellya Vargas</h1>
-<h2>Year Up Student, Class 23</h2>
-<h2>Application Development</h2>
+Mellya Vargas
+Year Up Student, Class 23
+Application Development
 
-<p>I’m currently a junior developer learning computer networking systems at Seattle Central College through a program called Year Up. I’ve been strengthening these skills through my experience in the hospitality industry where I’ve worked in a team to develop a natural wine delivery platform. My extracurricular hobbies are related to my current job as a wine buyer, I love spending time in the Willamette Valley supporting my winemaker friends during  harvest season and I always look forward to a conscious conversation about winemaking, agricultural practices, and farm labor rights.  My goal is to complete Year Up in April 2023, receive my certifications, and become a Front-End Software Developer with a major tech company here in Seattle to explore the possibilities of finding remote work for the opportunity to live seasonally in Mexico to access more time with my family.</p>
+I’m currently a junior developer learning computer networking systems at Seattle Central College through a program called Year Up. I’ve been strengthening these skills through my experience in the hospitality industry where I’ve worked in a team to develop a natural wine delivery platform. My extracurricular hobbies are related to my current job as a wine buyer, I love spending time in the Willamette Valley supporting my winemaker friends during  harvest season and I always look forward to a conscious conversation about winemaking, agricultural practices, and farm labor rights.  My goal is to complete Year Up in April 2023, receive my certifications, and become a Front-End Software Developer with a major tech company here in Seattle to explore the possibilities of finding remote work for the opportunity to live seasonally in Mexico to access more time with my family.
 
-<p>Year Up Puget Sound</p>
+Year Up Puget Sound
+http://www.yearup.org/
+http://www.youtube.com/yearupinc
 
+LinkedIn: https://www.linkedin.com/in/mellya-vargas
+Email: mvargas@sea.yearup.org
